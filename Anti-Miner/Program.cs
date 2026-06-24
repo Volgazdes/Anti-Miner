@@ -14,7 +14,7 @@ namespace Anti_Miner
 {
     class Program {
 
-        public static string api = "API_KEY";
+        public static string api = "7cd05266119a922ac4d6cd3eef5c51214899ad50d08fd00ee86267894268fd95";
 
         #region "Protect"
 
